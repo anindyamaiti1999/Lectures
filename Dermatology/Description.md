@@ -1,0 +1,1 @@
+The Dermatology Folder contains explanations of MD Dermatology Q&A pairs of various chapters - for easy assimilation of the original material. That is why many subtopics & associated content are seemingly omitted. 
